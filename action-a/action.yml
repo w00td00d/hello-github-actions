@@ -15,3 +15,7 @@ runs:
 branding:
   icon: "mic"
   color: "purple"
+
+name: "Hello Actions"
+description: "Greet someone"
+author: "octocat@github.com"
